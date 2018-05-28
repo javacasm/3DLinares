@@ -1,14 +1,12 @@
 # SOFTWARE Y RECURSOS PARA IMPRESORAS 3D
 
-CEP de Guadix
+CEP de Linares-Andujar
 
-https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/181813GE014/
+(4 horas)
 
-(6 horas)
+Jos'e Antonio Vacas @javacasm
 
-14 y 21 de noviembre
-
-## https://github.com/javacasm/3dGuadix
+## https://github.com/javacasm/3DLinares
 
 ## Introducción
 
